@@ -80,3 +80,7 @@ window.onload = function () {
     // Iniciar
     renderizarImagen();
 } 
+
+
+
+
